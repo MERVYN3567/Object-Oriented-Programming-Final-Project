@@ -1,0 +1,14 @@
+The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,Charles Scribner's Sons,4.8,action
+1984,George Orwell,Fiction,1949,Secker & Warburg,4.6,mystery
+To Kill a Mockingbird,Harper Lee,Fiction,1960,J. B. Lippincott & Co.,4.5,romance
+Pride and Prejudice,Jane Austen,Fiction,1813,Dover Publications,4.3,romance
+The Catcher in the Rye,J.D. Salinger,Fiction,1951,Little Brown,4.2,action
+The Hobbit,J.R.R. Tolkien,Fiction,1937,George Allen & Unwin (UK),4.9,fantasy
+Harry Potter and the Philosopher's Stone,J.K. Rowling,Fiction,1997,Bloomsbury,4.9,fantasy
+The Hunger Games,Suzanne Collins,Fiction,2008,Scholastic,4.8,action
+Dune,Frank Herbert,Fiction,1965,Chilton Books,5.0,science fiction
+Brave New World,Aldous Huxley,Fiction,1932,Chatto & Windus,4.6,science fiction
+The Martian,Andy Weir,Fiction,2014,Crown,4.3,science fiction
+The Shining,Stephen King,Fiction,1977,Doubleday,3.9,horror
+The Girl with the Dragon Tattoo,Stieg Larsson,Fiction,2005,Norstedts FArlag (Swedish),4.5,mystery
+The Road,Cormac McCarthy,Fiction,2006,Alfred A. Knopf,4.0,dystopian

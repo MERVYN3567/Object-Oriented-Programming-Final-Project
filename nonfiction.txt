@@ -1,0 +1,9 @@
+The Philosophy Book,DK,NonFiction,2011,Dorling Kindersley,4.5,philosophy
+Sapiens: A Brief History of Humankind,Yuval Noah Harari,NonFiction,2011,Dvir Publishing House Ltd. (Israel) Random House Harper,4.9,biography
+The God Delusion,Richard Dawkins,NonFiction,2006,Bantam Press,4.6,religion
+The Power of Now,Eckhart Tolle,NonFiction,1997,Namaste Publishing,4.2,spirituality
+Educated,Tara Westover,NonFiction,2018,Random House,4.1,autobiography
+Becoming,Michelle Obama,NonFiction,2018,Crown (North America) Viking Press (Commonwealth),4.2,memoir
+Steve Jobs,Walter Isaacson,NonFiction,2011,Simon & Schuster (U.S.),4.3,biography
+Quiet: The Power of Introverts in a World That Can't Stop Talking,Susan Cain,NonFiction,2015,Crown Publishing Group,4.0,psychology
+Outliers: The Story of Success,Malcolm Gladwell,NonFiction,2008,Little Brown,4.7,success
